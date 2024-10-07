@@ -10,7 +10,7 @@ The **STMicroelectronics STM32H743I-EVAL Board Support Pack (BSP)**:
 
 - [Examples/Blinky](https://github.com/Open-CMSIS-Pack/STM32H743I-EVAL_BSP/tree/main/Examples/Blinky) shows the basic usage of this board.
 
-- [Board Layer](https://github.com/Open-CMSIS-Pack/STM32H743I-EVAL_BSP/tree/main/Layers) for device-agonistic [Reference Applications](https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/ReferenceApplications.md) that implements this API interfaces:
+- [Board Layer](https://github.com/Open-CMSIS-Pack/STM32H743I-EVAL_BSP/tree/main/Layers) for device-agonistic [Reference Applications](https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/ReferenceApplications.md) that implements these API interfaces:
 
     Provided API Interface      | Description
     :---------------------------|:----------------
